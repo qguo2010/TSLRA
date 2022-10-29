@@ -7,4 +7,4 @@ Q. Guo, S. Gao, X. Zhang, Y. Yin, and C. Zhang, [Patch-based image inpainting vi
 
 # Flowchart
 
-![image](https://github.com/qguo2010/LRA-SVD/blob/main/Flowchart.png)
+![image](https://github.com/qguo2010/TSLRA/blob/main/Flowchart.png)
