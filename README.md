@@ -1,4 +1,4 @@
-# Image Inpainting via TSLRA
+# TSLRA for Image Inpainting
 
 This is a demo for the following paper
 
